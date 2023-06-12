@@ -3,5 +3,5 @@ const multiply= (number, num) => {
     return number * num;
   };
   
-  console.log(multiply(2, 3));
+  module.exports = multiply;
   

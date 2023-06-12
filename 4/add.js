@@ -3,5 +3,5 @@ const add = (number, num) => {
     return number + num;
   };
   
-  console.log(add(2, 3));
+module.exports = add;
   
