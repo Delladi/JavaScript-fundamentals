@@ -6,3 +6,5 @@ const isValidLength = (phoneNumber) => {
       return false;
     }
   }
+  //to test in node : console.log(isValidLength(00)) 
+  
