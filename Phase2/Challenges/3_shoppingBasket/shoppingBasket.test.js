@@ -23,4 +23,6 @@ describe('shoppingBasket', function() {
     basket.addItem(skittleDouble);
     expect(basket.getTotalPrice()).toBe(12.97);
   });
+
+  
 });
